@@ -1,0 +1,4 @@
+Copy/Paste the code from Node Red code into Import of Bluemix Node Red and make
+sure to have your MongoDB credentials changed in the code.
+
+It will require you to add the MongoDB service to your Bluemix app setup.
