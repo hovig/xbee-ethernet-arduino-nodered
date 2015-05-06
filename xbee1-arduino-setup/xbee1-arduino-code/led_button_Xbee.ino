@@ -15,8 +15,6 @@ void setup() {
   pinMode(ledOutput, OUTPUT);
   pinMode(buttonInput, INPUT);
   digitalWrite(buttonInput, HIGH);
-  //Serial.print('H');
-  //  delay(500);
 }
 
 void loop() {
