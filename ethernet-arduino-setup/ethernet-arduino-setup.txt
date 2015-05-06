@@ -1,0 +1,3 @@
+Pins used to setup Arduino-Ethernet (check the picture):
+
+- Digital pin 2 set to input connected to the buzzer's positive leg

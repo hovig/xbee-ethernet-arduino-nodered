@@ -1,0 +1,6 @@
+Pins used on Arduino-Xbee1 setup (check the picture):
+
+- Digital pin 2 for button input connected to the one of the legs of the button
+- Digital pin 13 for led output connected to the one of the legs of the LED
+- 5v pin
+- GND pin

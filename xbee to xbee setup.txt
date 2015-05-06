@@ -1,0 +1,1 @@
+Download Putty (Putty.org) to setup xbee to xbee communication

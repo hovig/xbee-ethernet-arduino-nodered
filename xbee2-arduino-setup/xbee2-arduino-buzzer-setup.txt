@@ -1,0 +1,4 @@
+Pins used for xbee2-arduino setup (check the picture):
+
+- Digital pin 11 for buzzer output connected to the buzzer's positive leg
+- GND connected to the buzzer's negative leg
