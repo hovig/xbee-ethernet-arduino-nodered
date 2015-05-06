@@ -1,1 +1,23 @@
-Download Putty (Putty.org) to setup xbee to xbee communication
+Download Putty (Putty.org) to setup xbee to xbee communication on Windows (CoolTerm for Mac).
+Run Putty.exe and click on "Serial" radio button. In Serial line field type the port number COM. Then on the left panel, click on 
+Terminal and choose the "Force on" radio button and press Open.
+
+Now follow these exact steps for Xbee 1 and Xbee 2:
+
+#For Xbee1 type:
++++      -> press Enter
+ATMY1000 -> press Enter
+ATDL1001 -> press Enter
+ATID1111,-> press Enter
+WR       -> press Enter
+
+Restart the session now on Putty.
+
+#For Xbee2 type:
++++      -> press Enter
+ATMY1001 -> press Enter
+ATDL1000 -> press Enter
+ATID1111,-> press Enter
+WR       -> press Enter
+
+Now both Xbees are ready to communicate on the same channel.
