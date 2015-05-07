@@ -11,7 +11,8 @@ ATDL1001 -> press Enter
 ATID1111,-> press Enter
 WR       -> press Enter
 
-Restart the session now on Putty.
+Restart the session now on Putty. And do the same steps as above: click on "Serial" radio button. In Serial line field type the port number COM. Then on the left panel, click on 
+Terminal and choose the "Force on" radio button and press Open.
 
 #For Xbee2 type:
 +++      -> press Enter
